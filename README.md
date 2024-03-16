@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/TeamsSamples/AgileProj/_apis/build/status%2FNikwp2911.GitAzD?branchName=main)](https://dev.azure.com/TeamsSamples/AgileProj/_build/latest?definitionId=14&branchName=main)
